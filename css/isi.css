@@ -1,0 +1,39 @@
+*{
+    background-color: red;
+    font-family: 'Kalnia', serif;
+}
+.background{
+    background-image: url(../images/Colosseo_2020.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.fonts{
+    text-align: center;
+    cursor: pointer;
+}
+.color{
+    color: green;
+}
+.a:link{
+  color: black;
+}
+.a:visited{
+    color: aqua;
+}
+.a:hover{
+    color: red;
+}
+.a:active{
+    color: chocolate;
+}
+.red{
+    background-color: yellow;
+    list-style-type: decimal-leading-zero;
+}
+.abc{
+    color: green;
+}
+.container{
+    float: left;
+}
